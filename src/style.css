@@ -1,0 +1,46 @@
+body {
+  background-color: #f6c089;
+}
+
+h1 {
+  font-family: "Young Serif", serif;
+  font-size: 40px;
+  text-align: center;
+}
+
+p {
+  width: 600px;
+  margin: 0 auto;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+a {
+  font-family: "Roboto", sans-serif;
+}
+
+a:visited {
+  color: black;
+}
+
+.links a {
+  margin: 0 10px;
+  color: black;
+}
+
+.links {
+  margin-top: 20px;
+  font-weight: 400;
+  text-align: center;
+}
+
+.croissant-info {
+  margin-bottom: 25px;
+}
+
+.homepage-image,
+.croissant-image {
+  display: block;
+  margin: 0 auto;
+  width: 500px;
+}
